@@ -1,0 +1,7 @@
+D:\Dot-Net\InheritancePOC\bin\Debug\InheritancePOC.exe.config
+D:\Dot-Net\InheritancePOC\bin\Debug\InheritancePOC.exe
+D:\Dot-Net\InheritancePOC\bin\Debug\InheritancePOC.pdb
+D:\Dot-Net\InheritancePOC\obj\Debug\InheritancePOC.csproj.AssemblyReference.cache
+D:\Dot-Net\InheritancePOC\obj\Debug\InheritancePOC.csproj.CoreCompileInputs.cache
+D:\Dot-Net\InheritancePOC\obj\Debug\InheritancePOC.exe
+D:\Dot-Net\InheritancePOC\obj\Debug\InheritancePOC.pdb
