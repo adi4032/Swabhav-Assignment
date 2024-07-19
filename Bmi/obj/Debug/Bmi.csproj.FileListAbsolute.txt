@@ -1,0 +1,7 @@
+D:\Dot-Net\Bmi\obj\Debug\Bmi.csproj.AssemblyReference.cache
+D:\Dot-Net\Bmi\obj\Debug\Bmi.csproj.CoreCompileInputs.cache
+D:\Dot-Net\Bmi\bin\Debug\Bmi.exe.config
+D:\Dot-Net\Bmi\bin\Debug\Bmi.exe
+D:\Dot-Net\Bmi\bin\Debug\Bmi.pdb
+D:\Dot-Net\Bmi\obj\Debug\Bmi.exe
+D:\Dot-Net\Bmi\obj\Debug\Bmi.pdb
