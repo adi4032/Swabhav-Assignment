@@ -1,0 +1,7 @@
+D:\Dot-Net\StudentApp\bin\Debug\StudentApp.exe.config
+D:\Dot-Net\StudentApp\bin\Debug\StudentApp.exe
+D:\Dot-Net\StudentApp\bin\Debug\StudentApp.pdb
+D:\Dot-Net\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\Dot-Net\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\Dot-Net\StudentApp\obj\Debug\StudentApp.exe
+D:\Dot-Net\StudentApp\obj\Debug\StudentApp.pdb
