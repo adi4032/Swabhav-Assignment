@@ -1,0 +1,10 @@
+D:\Dot-Net\Bank(Serialize)\obj\Debug\Bank(Serialize).csproj.AssemblyReference.cache
+D:\Dot-Net\Bank(Serialize)\obj\Debug\Bank(Serialize).csproj.CoreCompileInputs.cache
+D:\Dot-Net\Bank(Serialize)\bin\Debug\Bank(Serialize).exe.config
+D:\Dot-Net\Bank(Serialize)\bin\Debug\Bank(Serialize).exe
+D:\Dot-Net\Bank(Serialize)\bin\Debug\Bank(Serialize).pdb
+D:\Dot-Net\Bank(Serialize)\obj\Debug\Bank(Serialize).exe
+D:\Dot-Net\Bank(Serialize)\obj\Debug\Bank(Serialize).pdb
+D:\Dot-Net\Bank(Serialize)\bin\Debug\Newtonsoft.Json.dll
+D:\Dot-Net\Bank(Serialize)\bin\Debug\Newtonsoft.Json.xml
+D:\Dot-Net\Bank(Serialize)\obj\Debug\Bank(Ser.F7910CF0.Up2Date
