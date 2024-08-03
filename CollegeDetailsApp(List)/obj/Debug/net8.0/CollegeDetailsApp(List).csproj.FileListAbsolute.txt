@@ -1,0 +1,14 @@
+D:\Dot-Net\CollegeDetailsApp(List)\bin\Debug\net8.0\CollegeDetailsApp(List).exe
+D:\Dot-Net\CollegeDetailsApp(List)\bin\Debug\net8.0\CollegeDetailsApp(List).deps.json
+D:\Dot-Net\CollegeDetailsApp(List)\bin\Debug\net8.0\CollegeDetailsApp(List).runtimeconfig.json
+D:\Dot-Net\CollegeDetailsApp(List)\bin\Debug\net8.0\CollegeDetailsApp(List).dll
+D:\Dot-Net\CollegeDetailsApp(List)\bin\Debug\net8.0\CollegeDetailsApp(List).pdb
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).AssemblyInfoInputs.cache
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).AssemblyInfo.cs
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).csproj.CoreCompileInputs.cache
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).dll
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\refint\CollegeDetailsApp(List).dll
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).pdb
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\CollegeDetailsApp(List).genruntimeconfig.cache
+D:\Dot-Net\CollegeDetailsApp(List)\obj\Debug\net8.0\ref\CollegeDetailsApp(List).dll
