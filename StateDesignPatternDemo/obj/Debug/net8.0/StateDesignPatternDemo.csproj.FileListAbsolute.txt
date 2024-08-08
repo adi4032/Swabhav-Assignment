@@ -1,0 +1,14 @@
+D:\Dot-Net\StateDesignPatternDemo\bin\Debug\net8.0\StateDesignPatternDemo.exe
+D:\Dot-Net\StateDesignPatternDemo\bin\Debug\net8.0\StateDesignPatternDemo.deps.json
+D:\Dot-Net\StateDesignPatternDemo\bin\Debug\net8.0\StateDesignPatternDemo.runtimeconfig.json
+D:\Dot-Net\StateDesignPatternDemo\bin\Debug\net8.0\StateDesignPatternDemo.dll
+D:\Dot-Net\StateDesignPatternDemo\bin\Debug\net8.0\StateDesignPatternDemo.pdb
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.AssemblyInfoInputs.cache
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.AssemblyInfo.cs
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.csproj.CoreCompileInputs.cache
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.dll
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\refint\StateDesignPatternDemo.dll
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.pdb
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\StateDesignPatternDemo.genruntimeconfig.cache
+D:\Dot-Net\StateDesignPatternDemo\obj\Debug\net8.0\ref\StateDesignPatternDemo.dll
