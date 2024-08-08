@@ -1,0 +1,14 @@
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).AssemblyInfoInputs.cache
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).AssemblyInfo.cs
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).csproj.CoreCompileInputs.cache
+D:\Dot-Net\LineItem(order)\bin\Debug\net8.0\LineItem(order).exe
+D:\Dot-Net\LineItem(order)\bin\Debug\net8.0\LineItem(order).deps.json
+D:\Dot-Net\LineItem(order)\bin\Debug\net8.0\LineItem(order).runtimeconfig.json
+D:\Dot-Net\LineItem(order)\bin\Debug\net8.0\LineItem(order).dll
+D:\Dot-Net\LineItem(order)\bin\Debug\net8.0\LineItem(order).pdb
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).dll
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\refint\LineItem(order).dll
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).pdb
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\LineItem(order).genruntimeconfig.cache
+D:\Dot-Net\LineItem(order)\obj\Debug\net8.0\ref\LineItem(order).dll
