@@ -1,0 +1,14 @@
+D:\Dot-Net\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.exe
+D:\Dot-Net\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.deps.json
+D:\Dot-Net\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.runtimeconfig.json
+D:\Dot-Net\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.dll
+D:\Dot-Net\ProxyDesignPattern\bin\Debug\net8.0\ProxyDesignPattern.pdb
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.AssemblyInfo.cs
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.dll
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\refint\ProxyDesignPattern.dll
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.pdb
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ProxyDesignPattern.genruntimeconfig.cache
+D:\Dot-Net\ProxyDesignPattern\obj\Debug\net8.0\ref\ProxyDesignPattern.dll
