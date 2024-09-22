@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Timesheet</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #e9ecef;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h1 {
+      color: #343a40;
+      margin-bottom: 30px;
+      text-align: center;
+      font-size: 2em;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+      color: #495057;
+    }
+
+    input[type="date"],
+    select,
+    input[type="text"] {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: 1px solid #ced4da;
+      border-radius: 5px;
+      box-sizing: border-box;
+      font-size: 1em;
+    }
+
+    button,
+    input[type="submit"] {
+      background-color: #007bff;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1em;
+      transition: background-color 0.3s, transform 0.2s;
+      display: inline-block;
+    }
+
+    button:hover,
+    input[type="submit"]:hover {
+      background-color: #0056b3;
+      transform: translateY(-2px);
+    }
+
+    #activity-container {
+      margin-top: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th,
+    td {
+      border: 1px solid #dee2e6;
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f8f9fa;
+      font-weight: bold;
+      color: #343a40;
+    }
+
+    td {
+      background-color: #ffffff;
+      color: #495057;
+    }
+
+    #displayActivities {
+      margin-top: 40px;
+      padding: 20px;
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Timesheet</h1>
+    <form id="form">
+      <div>
+        <label for="date">Enter Date:</label>
+        <input type="date" id="date" required />
+      </div>
+      <div>
+        <label for="on-leave">On leave:</label>
+        <select name="onleave" id="on-leave" required>
+          <option value="" disabled selected>Select</option>
+          <option value="true">True</option>
+          <option value="false">False</option>
+        </select>
+      </div>
+
+      <div id="activity-container"></div>
+
+      <button type="button" id="add-activity">Add Activity</button>
+
+      <input type="submit" value="Submit" />
+    </form>
+  </div>
+  
+  <div id="displayActivities"></div>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
